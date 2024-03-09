@@ -6,11 +6,6 @@
 }
 %end
 
-%hook PhotomathPatchedSwiftClassNameMenuViewController
-- (void)didTapSubscriptionButton {
-}
-%end
-
 %hook PMUserSubscriptionData
 + (bool)isValidUserSubscriptionData:(id)arg1 {
     return 1;
