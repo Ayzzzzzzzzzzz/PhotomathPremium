@@ -1,6 +1,6 @@
 # PhotomathPremium
 
-THe premium Feautures are unlocked, but the button for unlocking Premium is still on the Sidebar.
+The premium Feautures are unlocked, but the button for unlocking Premium is still on the Sidebar.
 
 
 **Disclaimer and Legal Notice: Photomath Premium Tweak**
