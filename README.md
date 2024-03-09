@@ -35,12 +35,8 @@ The Developer reserves the right to modify or update these terms at any time wit
 
 By using the Tweak, users signify their acceptance of these terms and agree to abide by them. If a user does not agree with these terms, they should refrain from using the Tweak.
 
-**Contact Information:**
-
-For any inquiries regarding the Tweak or these terms, please contact the Developer at [Your Contact Information].
-
 **Effective Date:**
 
 These terms are effective as of 09.03.2024.
 
-By using the Photomath Premium Unlocker Tweak, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions.
+By using the Photomath Premium Tweak, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions.
