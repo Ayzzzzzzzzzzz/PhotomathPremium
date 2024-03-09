@@ -1,0 +1,9 @@
+Package: com.ayz.photomathpremium
+Name: Photomath Premium
+Author: Ayz
+Description: adds premium, even tough there is still the upgrade tab on the side
+Depends: mobilesubstrate
+Maintainer: Ayz
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 0.0.1
